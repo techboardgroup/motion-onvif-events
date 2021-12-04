@@ -1,0 +1,8 @@
+.idea
+.vscode
+.dockerignore
+.eslintrc.js
+.github
+.prettierrc.js
+Dockerfile
+docker-compose.yaml
