@@ -9,7 +9,7 @@
     "axios": "^1.4.0",
     "node-fetch": "^2.1.2",
     "onvif": "^0.6.4",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.0.3"
   },
   "bin": {
     "motion-onvif-events": "./motion-onvif-events.js"
